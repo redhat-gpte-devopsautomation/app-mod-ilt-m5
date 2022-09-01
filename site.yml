@@ -4,7 +4,6 @@ runtime:
 site:
   title: Application Modernization ILT
   start_page: app-mod-ilt-m5::introduction.adoc
-  url: http://redhat-scholars.github.io/mad-dev-guides-m5/
 
 content:
   sources:
