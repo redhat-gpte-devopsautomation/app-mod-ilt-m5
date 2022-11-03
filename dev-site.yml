@@ -3,7 +3,7 @@ runtime:
 
 site:
   title: Application Modernization
-  start_page: app-mod-ilt-m5::introduction.adoc
+  start_page: app-mod-ilt-m6::introduction.adoc
   url: http://localhost:3000
 content:
   sources:
